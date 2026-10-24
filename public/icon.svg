@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="dukasmart_grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1b5e20" />
+      <stop offset="100%" stop-color="#0d3b13" />
+    </linearGradient>
+    <linearGradient id="gold_grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fbbf24" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+  </defs>
+  <!-- Background squircle -->
+  <rect width="512" height="512" rx="128" fill="url(#dukasmart_grad)" />
+  
+  <!-- Subtle roof awning / shop motif -->
+  <path d="M96 200 L256 120 L416 200 L416 230 L96 230 Z" fill="url(#gold_grad)" />
+  
+  <!-- Awning scalloped flaps -->
+  <path d="M96 230 Q128 260 160 230 Q192 260 224 230 Q256 260 288 230 Q320 260 352 230 Q384 260 416 230 L416 240 Q384 270 352 240 Q320 270 288 240 Q256 270 224 240 Q192 270 160 240 Q128 270 96 240 Z" fill="#b45309" opacity="0.6" />
+  
+  <!-- Store building base -->
+  <rect x="120" y="240" width="272" height="180" rx="16" fill="#ffffff" />
+  
+  <!-- Shop Door / Checkout counter -->
+  <rect x="216" y="290" width="80" height="130" rx="8" fill="#1b5e20" />
+  <circle cx="232" cy="355" r="5" fill="#fbbf24" />
+  
+  <!-- Inventory shelves / checkmarks -->
+  <rect x="144" y="270" width="52" height="36" rx="4" fill="#ecfdf5" stroke="#10b981" stroke-width="3" />
+  <path d="M154 288 L162 296 L184 278" fill="none" stroke="#059669" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <!-- Cash / UGX register sign -->
+  <rect x="316" y="270" width="56" height="36" rx="4" fill="#fef3c7" stroke="#f59e0b" stroke-width="3" />
+  <text x="344" y="294" font-family="sans-serif" font-weight="900" font-size="16" fill="#b45309" text-anchor="middle">UGX</text>
+  
+  <!-- Smart spark dot -->
+  <circle cx="390" cy="140" r="14" fill="#fbbf24" />
+</svg>

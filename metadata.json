@@ -1,0 +1,8 @@
+{
+  "name": "DukaSmart UG",
+  "description": "Offline-first business management app for retail shops, kiosks, and grocery stores in Uganda with inventory, sales, customer credit, expenses, and profit reporting in UGX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

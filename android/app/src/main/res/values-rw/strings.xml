@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">DukaSmart UG</string>
+    <string name="app_tagline">Gucunga Ubucuruzi Nta Murandasi muri Uganda</string>
+    <string name="currency">UGX</string>
+
+    <!-- Navigation Tabs -->
+    <string name="nav_dashboard">Ahabanza</string>
+    <string name="nav_products">Ububiko</string>
+    <string name="nav_sales">Kugurisha</string>
+    <string name="nav_customers">Abakiriya</string>
+    <string name="nav_reports">Raporo</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_today_sales">Ibyagurishijwe Uyu Munsi</string>
+    <string name="dashboard_cash_collected">Amafaranga mu Ntoki</string>
+    <string name="dashboard_credit_sales">Ibyagurishijwe ku Mwenda</string>
+    <string name="dashboard_gross_profit">Inyungu y\'Ibanze</string>
+    <string name="dashboard_operating_expenses">Amafaranga Yasohotse</string>
+    <string name="dashboard_net_profit">Inyungu Nyayo</string>
+    <string name="dashboard_outstanding_debts">Imyenda y\'Abakiriya</string>
+    <string name="dashboard_low_stock_alert">Ibicuruzwa Biri Gushira</string>
+
+    <!-- Products & Inventory -->
+    <string name="products_title">Ibicuruzwa n\'Ububiko</string>
+    <string name="add_product">Ongeramo Igicuruzwa</string>
+    <string name="edit_product">Hindura Igicuruzwa</string>
+    <string name="product_name">Izina ry\'Igicuruzwa</string>
+    <string name="product_category">Icyiciro</string>
+    <string name="product_cost_price">Igiciro cyo Kurangura (UGX)</string>
+    <string name="product_selling_price">Igiciro cyo Kugurisha (UGX)</string>
+    <string name="product_stock_qty">Ingano iri mu bubiko</string>
+    <string name="product_low_stock_level">Ingano yo gutanga umuburo</string>
+    <string name="product_restock">Kongeramo Ububiko</string>
+    <string name="product_archive">Bika Igicuruzwa</string>
+
+    <!-- Sales & POS -->
+    <string name="pos_new_sale">Kugurisha Bishya</string>
+    <string name="pos_cart">Ibyo Ugiye Kugurisha</string>
+    <string name="pos_clear_cart">Kwegeranya Byose</string>
+    <string name="pos_total">Amafaranga Yose Hamwe</string>
+    <string name="pos_complete_sale">Emeza Kugurisha</string>
+    <string name="payment_cash">Mu Ntoki (Cash)</string>
+    <string name="payment_momo">MTN Mobile Money</string>
+    <string name="payment_airtel">Airtel Money</string>
+    <string name="payment_credit">Umwenda (Credit)</string>
+    <string name="payment_split">Kugabanya (Split)</string>
+
+    <!-- Customers & Credit Ledger -->
+    <string name="customers_title">Igitabo cy\'Imyenda y\'Abakiriya (Madeni)</string>
+    <string name="add_customer">Ongeramo Umukiriya</string>
+    <string name="customer_name">Izina ry\'Umukiriya</string>
+    <string name="customer_phone">Nimero ya Telefone</string>
+    <string name="customer_balance">Umwenda Asigaranye</string>
+    <string name="record_repayment">Kwakira Amafaranga</string>
+    <string name="view_statement">Reba Inyandiko y\'Umukiriya</string>
+    <string name="share_whatsapp">Ohereza kuri WhatsApp</string>
+
+    <!-- Expenses -->
+    <string name="expenses_title">Amafaranga Yasohotse</string>
+    <string name="record_expense">Andika Ayasohotse</string>
+    <string name="expense_amount">Amafaranga (UGX)</string>
+    <string name="expense_description">Impamvu / Icyakoreshejwe</string>
+
+    <!-- Reports -->
+    <string name="reports_title">Raporo n\'Inyungu</string>
+    <string name="profit_and_loss">Inyungu n\'Igihombo (P&amp;L)</string>
+    <string name="inventory_valuation">Agaciro k\'Ububiko</string>
+    <string name="cash_flow">Aho Amafaranga Anyura</string>
+
+    <!-- Settings & Common -->
+    <string name="settings_title">Igenamiterere &amp; Kopi</string>
+    <string name="language">Ururimi</string>
+    <string name="action_save">Bika</string>
+    <string name="action_cancel">Kureka</string>
+    <string name="action_close">Funga</string>
+</resources>
